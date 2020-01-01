@@ -1,6 +1,6 @@
 main()
 {
-  Blue;
+
 }
 finnal copy
 
